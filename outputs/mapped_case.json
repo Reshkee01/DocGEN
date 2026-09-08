@@ -1,0 +1,43 @@
+{
+    "document": {
+        "type": "Affidavit in Reply",
+        "court": "IN THE HIGH COURT OF JUDICATURE AT BOMBAY",
+        "jurisdiction": "ORDINARY ORIGINAL CIVIL JURISDICTION",
+        "proceeding_type": "WRIT PETITION",
+        "case_number": "1847",
+        "year": "2026"
+    },
+    "parties": {
+        "petitioner": "Sunrise Housing Private Limited",
+        "respondent_1": "State of Maharashtra",
+        "respondent_2": "Mumbai Metropolitan Region Development Authority"
+    },
+    "deponent": {
+        "name": "Arvind Rajan",
+        "designation": "Deputy Metropolitan Commissioner",
+        "organisation": "Mumbai Metropolitan Region Development Authority",
+        "address": "Bandra East, Mumbai, Maharashtra",
+        "acting_for": "Respondent No. 2"
+    },
+    "reply": {
+        "points": {
+            "1": "Filing of Affidavit in Reply The deponent has perused a copy of the Writ Petition filed by Sunrise Housing Private Limited. The deponent is filing this Affidavit in Reply on behalf of Respondent No. 2, Mumbai Metropolitan Region Development Authority, to oppose the contentions raised in the Writ Petition and the reliefs sought by the Petitioner.",
+            "2": "General Denial Respondent No. 2 denies all statements, contentions and averments made in the Writ Petition except those specifically admitted in this Affidavit in Reply. Nothing contained in the Writ Petition that has not been specifically dealt with or admitted is to be treated as an admission by Respondent No. 2.",
+            "3": "Preliminary Position The Writ Petition is misconceived and devoid of merits. The actions challenged by the Petitioner were taken in accordance with the applicable redevelopment procedure and within the authority available to Respondent No. 2.",
+            "4": "Denial Regarding the Communication Respondent No. 2 denies that the impugned communication dated 15 July 2026 was issued without authority.",
+            "5": "Authority for the Communication The communication dated 15 July 2026 was issued pursuant to the applicable redevelopment procedure and after consideration of the relevant records.",
+            "6": "Document Relied Upon Respondent No. 2 relies upon the communication dated 15 July 2026. A copy of that communication is to be annexed and marked as EXHIBIT-‘A’."
+        },
+        "communication_date": "15 July 2026",
+        "exhibit": "EXHIBIT-‘A’"
+    },
+    "attestation": {
+        "place": "Mumbai",
+        "date": "5 September 2026",
+        "verification_verb": "solemnly affirm"
+    },
+    "advocate": {
+        "firm": "Rajan & Associates",
+        "acting_for": "Respondent No. 2"
+    }
+}
