@@ -185,8 +185,8 @@ Legal_doc_AI/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd Legal_doc_AI
+git clone https://github.com/Reshkee01/DocGEN.git
+cd DocGEN
 ```
 
 ### 2. Create a virtual environment
