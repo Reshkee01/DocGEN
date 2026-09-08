@@ -855,6 +855,6 @@ if st.session_state.workflow_completed:
 st.divider()
 
 st.caption(
-    "Prototype for the Brainwonders AI Intern Assignment — "
+    "Document Generation — "
     "Legal Document Generation & Evaluation Agent."
 )
