@@ -401,7 +401,7 @@ AI-Assisted Review
 `https://docgen-1.streamlit.app/`
 
 **Demo Video:**
-`<ADD_VIDEO_LINK>`
+`https://drive.google.com/file/d/1Ka7-jIz_Mh77VZiuWATk_CIp0A0NQ_mP/view?usp=drive_link`
 
 ---
 
